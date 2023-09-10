@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+    <Tracking>
+        <CylinderTarget name="Peanuts" sideLength="0.088900"/>
+        <ImageTarget name="Gorillaz" size="0.292100 0.285713"/>
+        <ImageTarget name="SmashTarget" size="0.101600 0.173880"/>
+        <ImageTarget name="UniversalTarget" size="0.076200 0.117551"/>
+        <ImageTarget name="Cereal.Bottom" size="0.195580 0.069799"/>
+        <ImageTarget name="Cereal.Right" size="0.069850 0.331467"/>
+        <ImageTarget name="Cereal.Left" size="0.069850 0.331412"/>
+        <ImageTarget name="Cereal.Top" size="0.195580 0.069855"/>
+        <ImageTarget name="Cereal.Front" size="0.195580 0.331449"/>
+        <ImageTarget name="Cereal.Back" size="0.195580 0.331416"/>
+        <MultiTarget name="Cereal">
+            <Part name="Cereal.Left" translation="-0.09779000282287598 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="Cereal.Right" translation="0.09779000282287598 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="Cereal.Front" translation="0 0 0.03492499887943268" rotation="AD: 1 0 0 0"/>
+            <Part name="Cereal.Back" translation="0 0 -0.03492499887943268" rotation="AD: 0 1 0 180"/>
+            <Part name="Cereal.Top" translation="0 0.16573500633239746 0" rotation="AD: 1 0 0 -90"/>
+            <Part name="Cereal.Bottom" translation="0 -0.16573500633239746 0" rotation="AD: 1 0 0 90"/>
+        </MultiTarget>
+    </Tracking>
+</QCARConfig>

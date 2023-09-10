@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.8.0">
+        <CylinderTarget name="Peanuts" version="3.0" targetId="b4438b68725c48fe9d1ea0cc8014352b" sideLength="0.088900" topDiameter="0.101600" bottomDiameter="0.101600" sideImage="Peanuts.Body_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>
